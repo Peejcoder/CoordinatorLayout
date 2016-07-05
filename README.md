@@ -7,7 +7,7 @@ CoordinatorLayout的简单使用
 ####
 ![](https://github.com/18380460383/CoordinatorLayout/raw/master/(zhaoxi.net).gif)  
 ```java
-布局：
+布局（部分）：
 <android.support.design.widget.CoordinatorLayout android:id="@+id/main_content"
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
